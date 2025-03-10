@@ -1,7 +1,7 @@
 <img width="120px" alt="R logo" align="right" src="figure/R_logo.svg.png">
 
-# R Programming Language
 
+# R Programming Language
 
 ## R for Data Visualization, Manipulation and Statistical Computing
 R is a powerful language for data-driven tasks, widely used in research, business, and data science.
