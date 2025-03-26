@@ -10,6 +10,8 @@
 # Similar to a calculator, there are symbols for other arithmetic operations.
 # E.g. -(subtraction), /(division), *(multiplication), etc.
 
+
+#Use of brackets
 ((3 + 12)/3 + 8)
 ##Parentheses "(" and ")" are used to define arithmetic expressions, and they must be matched; unmatched parentheses will result in error.
 
